@@ -10,7 +10,7 @@
 }
 
 #topMenu .nav {
-  margin-right: 500px;  /* 或更多/更少，取决于您想要的移动量 */
+  margin-right: 500px;
 }
 
 #topMenu .navbar-brand {
@@ -22,7 +22,7 @@
 }
 
 .custom-nav {
-  margin-right: 80px;  /* 调整这个值来增加或减少间距 */
+  margin-right: 80px;
 }
 
 .background-image {
@@ -51,7 +51,7 @@ footer {
 
 footer a {
   color: white;
-  text-decoration: none; /* 移除下划线 */
+  text-decoration: none; /
 }
 
 
@@ -63,7 +63,6 @@ footer a {
 }
 
 footer ul {
-  list-style-type: none; /* 移除列表项目前的点 */
-  padding: 0; /* 移除内边距 */
-  margin: 0; /* 移除外边距 */
+  list-style-type: none;
+  padding: 0;
 }
